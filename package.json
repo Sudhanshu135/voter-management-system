@@ -1,0 +1,26 @@
+{
+  "name": "voter-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.8",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "@tailwindcss/vite": "^4.1.8",
+    "lucide-react": "^0.513.0",
+    "react-redux": "^9.2.0",
+    "react-router": "^7.6.2",
+    "react-router-dom": "^7.6.2",
+    "tailwindcss": "^4.1.8"
+  }
+}
